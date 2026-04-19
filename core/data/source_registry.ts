@@ -20,13 +20,6 @@ export const SOURCE_REGISTRY = {
     authority_type: "rule",
     official: true
   },
-  texas_admin_code: {
-    name: "Texas Administrative Code",
-    base_url: "https://texreg.sos.state.tx.us/",
-    jurisdiction: "Texas",
-    authority_type: "administrative",
-    official: true
-  },
   federal_statutes: {
     name: "U.S. Code",
     base_url: "https://uscode.house.gov/",

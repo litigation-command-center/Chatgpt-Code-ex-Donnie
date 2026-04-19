@@ -1,5 +1,3 @@
-import { SOURCE_REGISTRY } from "./source_registry";
-
 export async function liveRetrieve(url: string) {
   const res = await fetch(url);
 
