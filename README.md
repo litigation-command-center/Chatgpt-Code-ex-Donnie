@@ -25,3 +25,9 @@ gh repo clone litigation-command-center/Chatgpt-Code-ex-Donnie
 - `core/system/response_orchestrator.ts`
 - `LICENSE`
 - `README.md`
+
+## Security
+
+Do **not** paste API tokens into chat or commit them to this repository.
+See `SECURITY.md` for safe handling instructions.
+
